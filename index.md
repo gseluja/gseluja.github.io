@@ -5,7 +5,7 @@
 ### Data Science
 
 [Profitable App Profiles for the App Store and Google Play Markets](/data_science_portfolio/Profitable_App_Profiles_App_Store_Google_Play_Markets.html)
-<img src="/data_science_portfolio/images/app_profiles.jpg?raw=true"/>
+<img src="/data_science_portfolio/images/app_profiles.jpg" width="100" height="40" />
 
 ---
 # Under construction!!!
