@@ -2,13 +2,13 @@
 
 ---
 
-### Dataquest projects
-## Under construction!!!
+### Data Science
 
-[Project 1 Title](/data_science_portfolio/Profitable_App_Profiles_App_Store_Google_Play_Markets.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Profitable App Profiles for the App Store and Google Play Markets](/data_science_portfolio/Profitable_App_Profiles_App_Store_Google_Play_Markets.html)
+<img src="images/app_profiles.jpg?raw=true"/>
 
 ---
+# Under construction!!!
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
