@@ -8,7 +8,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="data_science_portfolio/images/app_store.jpg" alt="App Store" style="width:80%">
+    <img src="data_science_portfolio/images/app_store.jpg" alt="App Store" style="width:50%">
   </div>
   <div class="column">
     <img src="data_science_portfolio/images/google_play.jpg" alt="Google Play" style="width:50%">
