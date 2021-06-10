@@ -7,7 +7,7 @@
 [Profitable App Profiles for the App Store and Google Play Markets](/data_science_portfolio/Profitable_App_Profiles_App_Store_Google_Play_Markets.html)
 
 <img src="data_science_portfolio/images/app_store.jpg" width="50%" height="50%"/>
-<img src="data_science_portfolio/images/google_play" width="50%" height="50%"/>
+<img src="data_science_portfolio/images/google_play.jpg" width="50%" height="50%"/>
 
 ---
 # Under construction!!!
