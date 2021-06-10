@@ -5,7 +5,7 @@
 ### Dataquest projects
 ## Under construction!!!
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/data_science_portfolio/Profitable App Profiles for the App Store and Google Play Markets.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
