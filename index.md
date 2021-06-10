@@ -6,12 +6,26 @@
 
 [Profitable App Profiles for the App Store and Google Play Markets](/data_science_portfolio/Profitable_App_Profiles_App_Store_Google_Play_Markets.html)
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 <div class="row">
   <div class="column">
-    <img src="data_science_portfolio/images/app_store.jpg" alt="App Store" width="30%" height="30%">
+    <img src="data_science_portfolio/images/app_store.jpg" alt="App Store" style="width:50%">
   </div>
   <div class="column">
-    <img src="data_science_portfolio/images/google_play.jpg" alt="Google Play" width="30%" height="30%">
+    <img src="data_science_portfolio/images/google_play.jpg" alt="Google Play" style="width:40%"">
   </div>
 </div>
 
